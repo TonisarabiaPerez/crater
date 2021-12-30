@@ -52,5 +52,11 @@
     "vue-router": "^4.0.8",
     "vue3-colorpicker": "^1.0.5",
     "vuedraggable": "^4.1.0"
-  }
+  },
+  "name": "crater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/crater-invoice/crater.git",
+  "author": "TonisarabiaPerez <58654643+TonisarabiaPerez@users.noreply.github.com>",
+  "license": "MIT"
 }
